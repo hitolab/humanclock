@@ -2,7 +2,7 @@
 
 The detailed model for mammalian circadian clock consists of 180 variables and 70 parameters.
 
-We numerically solved Kim-Forger model using  MATLAB code provided by the authors{kim2012mechanism}. To classify a type of bifuracation, we chose a variable as a representative of circadian dynamics, the concentration of Bmal1 in the nucleus. We hypothesized some of 70 parameters of this model depend on temperature T , i.e., $k^\prime_i=\alpha(T)k_i$ where ki represents the value of temperature-dependentparameter and $\alpha (T) \in [0,1] $ is a tepmerature-dependent factor with 1 corresponding to high temperature and 0 to low temperature. 
+We numerically solved Kim-Forger model using  MATLAB code provided by the authors{kim2012mechanism}. To classify a type of bifuracation, we chose a variable as a representative of circadian dynamics, the concentration of Bmal1 in the nucleus. We hypothesized some of 70 parameters of this model depend on temperature T , i.e., $k^\prime_i=\alpha(T)k_i$ where ki represents the value of temperature-dependentparameter and $\alpha (T) \in [0,1]$ is a tepmerature-dependent factor with 1 corresponding to high temperature and 0 to low temperature. 
 
 Code 1: Time series Bifurcation types analysis of various parameter. (Figure 4A)
 
