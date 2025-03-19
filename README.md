@@ -29,8 +29,7 @@ Code 2: Factor value dependent dynamics change of various parameter analysis (Fi
 
 Code 3: Categorizing Bifurcations (Figure 4B).
 
-      By systematically analyzing the probabilities of Hopf and SNIC bifurcation in the detailed model;
-      The probability of Hopf bifurcation relative higher than SNIC bifurcation with increasing the number of @arameters.
+      By systematically analyzing the probability of Hopf and SNIC bifurcation in the detailed model, we concluded that the probability of Hopf bifurcation relative higher than SNIC bifurcation with increasing the number of parameters.
 
 The Goodwin model{Gonze2020Goodwin}, incorporating a negative feedback loop, is used to classify the type of bifurcation that occurs as parameter values change.
 
