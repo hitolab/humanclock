@@ -1,4 +1,10 @@
-# Numerical simulation in Xiao et al.
+C
+
+# Code for numerical simulation and raw data in Xiao et al.
+
+## Raw data 
+**rawdata.xlsx** is the collection of experimental data underlying all of the figures.
+
 ## Kim-Forger model
 
 **code1_bifurcationdiagram.m** for drawing bifurcation diagram (Figure 4A).
@@ -14,3 +20,5 @@
 ## Goodwin model
 
 **code6_goodwin.m** for drawing bifurcation diagram. (Figure S5).
+
+
